@@ -1,2 +1,2 @@
 # demo
-example
+example-1
